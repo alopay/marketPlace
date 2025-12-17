@@ -34,7 +34,7 @@ As the marketplace administrator, you want to have control over the way that cre
 
 You are tasked with building a _Marketplace Validator_ that will validate a listing from a lender and suggest changes if required.
 
-## Tasks
+## Task
 
 Select **one** of the challenges below:
 
