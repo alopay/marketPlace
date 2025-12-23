@@ -68,7 +68,7 @@ Your deliverables:
 
 ### 2. Improved Marketplace Validator
 
-Take the existing Marketplace Validator (just the [prompt provided](marketplace_validator_prompt.txt)) and find possible improvements.
+Take the existing Marketplace Validator (just the[prompt provided](marketplace_validator_prompt.txt)) and find possible improvements.
 
 Consider how this improved validator could be served in production.
 
