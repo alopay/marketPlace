@@ -64,7 +64,7 @@ For the purposes of this challenge, you can use the [prompt provided](marketplac
 Your deliverables: 
 - [ ] Working API running locally.
 - [ ] Document any assumptions you have made.
-- [ ] High level design for how to serve this in a production cloud environment.
+- [ ] High level design for how to serve this in production cloud environment.
 
 ### 2. Improved Marketplace Validator
 
