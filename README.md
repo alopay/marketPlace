@@ -13,7 +13,7 @@ As part of setting up the marketplace third-party lenders provide offers to list
 > **Brief Description:**
 > Simplify your finances with the ClearPath Platinum credit card from TrustBank. Earn generous rewards on everyday purchases, including 3% cashback on dining, 2% cashback on gas and groceries, and 1% cashback everywhere else. With no annual fees, clear terms, and straightforward rewards, managing your credit has never been easier.
 > 
-> **Features:**
+> *Features:*
 > 
 > - **Cashback:** 4% on dining, 2% on gas and groceries, 1% on other purchases
 > 
