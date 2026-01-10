@@ -6,7 +6,7 @@
 
 Consider a marketplace that you are developing for consumers to compare credit cards, loans etc. 
 
-As part of setting up the marketplace third-party lenders provide offers to list to consumers. Each lender can create their listing and description as they wish, for example,
+As part of setting up of the marketplace third-party lenders provide offers to list to consumers. Each lender can create their listing and description as they wish, for example,
 
 > **Card Name:** ClearPath Platinum by TrustBank
 > 
