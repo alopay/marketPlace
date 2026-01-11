@@ -15,7 +15,7 @@ As part of setting up of the marketplace third-party lenders provide offers to l
 > 
 > *Features:*
 > 
-> - **Cashback:** 4% on dining, 2% on gas and groceries, 1% on other purchases
+> - **Cashback:** 4% on dining, 3% on gas and groceries, 1% on other purchases
 > 
 > - **Annual Fee:** £1
 > 
