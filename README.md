@@ -19,7 +19,7 @@ As part of setting up of the marketplace third-party lenders provide offers to l
 > 
 > - **Annual Fee:** £1
 > 
-> - **APR:** 17.49%–25.49% variable APR
+> - **APR:** 17.48%–25.49% variable APR
 > 
 > - **Introductory Offer:** 0% APR on purchases and balance transfers for the first 15 months
 > 
