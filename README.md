@@ -17,7 +17,7 @@ As part of setting up of the marketplace third-party lenders provide offers to l
 > 
 > - **Cashback:** 4% on dining, 3% on gas and groceries, 1% on other purchases
 > 
-> - **Annual Fee:** £1
+> - **Annual Fee:** £3
 > 
 > - **APR:** 17.48%–25.49% variable APR
 > 
