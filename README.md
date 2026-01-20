@@ -49,7 +49,7 @@ Select **one** of the challenges below:
 
 <br>
 
-> Complete as much as you can in 4 hours, there is not a requirement to complete it.
+> Complete as much as you can in 5 hours, there is not a requirement to complete it.
 
 <br>
 
